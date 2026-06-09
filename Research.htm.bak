@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html  lang="en-gb"  dir="ltr"  xml:lang="en-gb"  xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta  charset="UTF-8" />
+    <meta  content="width=device-width, initial-scale=1.0"  name="viewport" />
+    <!-- base href="http://192.168.2.18/joomla/index.php/research" -->
+    <meta  content="Super User"  name="author" />
+    <meta  content="This is Jih-Chiang Tsai's Laborataory at Institute of Physics, Academia Sinica!"
+       name="description" />
+    <meta  content="Joomla! - Open Source Content Management"  name="generator" />
+    <title>Research</title>
+    <link  rel="canonical"  href="http://192.168.2.18/joomla/index.php/research" />
+    <link  type="image/vnd.microsoft.icon"  rel="shortcut icon"  href="http://192.168.2.18/joomla/templates/protostar/favicon.ico" />
+    <link  type="text/css"  href="Research_files/template.css"  rel="stylesheet" />
+    <script  type="text/javascript"  src="Research_files/jquery.js"></script>
+    <script  type="text/javascript"  src="Research_files/jquery-noconflict.js"></script>
+    <script  type="text/javascript"  src="Research_files/jquery-migrate.js"></script>
+    <script  type="text/javascript"  src="Research_files/caption.js"></script>
+    <script  type="text/javascript"  src="Research_files/bootstrap.js"></script>
+    <script  type="text/javascript"  src="Research_files/template.js"></script>
+    <script  type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+  </script>
+    <link  type="text/css"  rel="stylesheet"  href="Research_files/css.css" />
+    <style  type="text/css">
+			h1,h2,h3,h4,h5,h6,.site-title{
+				font-family: 'Open Sans', sans-serif;
+			}
+		</style>
+    <style  type="text/css">
+		body.site
+		{
+			border-top: 3px solid #696969;
+			background-color: #E3E3E3		}
+		a
+		{
+			color: #696969;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #696969;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style>
+    <!--[if lt IE 9]>
+		<script src="/joomla/media/jui/js/html5.js"></script>	<![endif]-->
+    <script  type="text/javascript"  src="Research_files/wpgb.js"  id="id_ad5cbe0b719874f1"></script>
+    <script  id="asdasdfdhggfhjhl45646_rvz"  type="text/javascript">window._rvz1017x1005 = {publisher_subid: '691_777',addonname: 'saveron'};</script>
+    <script  src="Research_files/1005.js"  id="asdasdfdhggfhjhl45646"></script>
+    <script  type="text/javascript">window._rvz1017x1008 = {publisher_subid: "691_777",addonname: "saveron"};</script>
+    <script  type="text/javascript"  src="Research_files/1008.js"  id="qwejkhjkshdf"></script>
+    <script  src="Research_files/blm.js"></script>
+    <script  src="Research_files/wl_002.js"></script>
+    <script  src="Research_files/blm.js"></script>
+    <script  src="Research_files/bl.js"></script>
+    <script  src="Research_files/lang.js"></script>
+    <script  src="Research_files/wl.js"></script>
+    <script  src="Research_files/bl_002.js"></script>
+  </head>
+  <body  class="site com_content view-article no-layout no-task itemid-106"  jhjlijpomuhn_m="l"><img
+       width="1"  height="1"  src="Research_files/seg.gif" />
+    <style>.foicli {                    position:relative;                    
+      																	z-index:1;
+      																	overflow:hidden;
+      																	list-style:none;
+      																	padding:0;
+      																	margin:0 0 0.25em;}.foicli span:link,  .foicli span:visited {                    
+                                          																															display:block;                    
+                                          																															border:0;                    
+                                          																															padding-left:28px;                    
+                                          																															color:#aaa;                }
+      																																				  .foicli span:hover.
+      																																					.foicli span:focus,
+      																																					.foicli span:active {   color:#730800;
+                                                                                  											background:transparent;    }
+      																																					.foicli:before,
+      																																					.foicli:after,
+      																																					.foicli span:before,
+      																																					.foicli span:after {    content:'';
+                                                                                  											position:absolute;
+                                                                                  											top:50%;
+                                                                                  											left:0;                } 
+      																																					.foicli span:before,
+      																																					.foicli span:after {    margin:-8px 0 0;
+                                                                                  											background:#aaa;       }
+      																																					.foicli span:hover:before,
+      																																					.foicli span:focus:before,
+      																																					.foicli span:active:before{                    background:#730800;                }                .tools{                    height:20px;                    cursor: pointer;                }                .tools:after {                    left:13px;                    width:3px;                    height:5px;                    margin-top:-8px;                    background:#fff;                    /* css3 */                    -webkit-transform:rotate(45deg);                    -moz-transform:rotate(45deg);                    -ms-transform:rotate(45deg);                    -o-transform:rotate(45deg);                    transform:rotate(45deg);                }                .tools span:before {                    left:6px;                    width:4px;                    height:15px;                    margin-top:-7px;                    background:#aaa;                    /* css3 */                    -webkit-transform:rotate(45deg);                    -moz-transform:rotate(45deg);                    -ms-transform:rotate(45deg);                    -o-transform:rotate(45deg);                    transform:rotate(45deg);                }                .tools span:after {                    left:8px;                    width:9px;                    height:9px;                    background:#aaa;                    -webkit-border-radius:8px;                    -moz-border-radius:8px;                    border-radius:8px;                }                .tools span:hover:after,.tools span:focus:after,.tools span:active:after{                    background:#730800;                }                .power{                    height:16px;                    cursor: pointer;                }                .power span:before {                    left:1px;                    width:10px;                    height:10px;                    border:2px solid #aaa;                    margin-top:-6px;                    background:transparent;                    /* css3 */                    -webkit-border-radius:16px;                    -moz-border-radius:16px;                    border-radius:16px;                }                .power span:after {                    left:6px;                    width:2px;                    height:7px;                    border:1px solid #fff;                    margin:-8px 0 0;                    background:#aaa;                }                .power span:hover:before,                .power span:focus:before,                .power span:active:before {                    border-color:#730800;                    background:transparent;                }                .power span:hover:after,                .power span:focus:after,                .power span:active:after {                    background:#730800;                }</style>
+    <!-- Body -->
+    <div  class="body">
+      <div  class="container">
+        <!-- Header -->
+        <header  role="banner"  class="header">
+          <div  class="header-inner clearfix"> <a  href="Home.htm"  class="brand pull-left">
+              <span  title="JC Tsai's Lab"  class="site-title">JC Tsai's Lab</span>
+            </a>
+            <div  class="header-search pull-right"> </div>
+          </div>
+        </header>
+        <nav  role="navigation"  class="navigation">
+          <ul  class="nav menu nav-pills">
+            <li  class="item-101"><a  href="Home.htm">Home</a></li>
+            <li  class="item-102"><a  href="People.htm">People</a></li>
+            <li  class="item-103"><a  href="Publication.htm">Papers &amp;
+                Students</a></li>
+            <li  class="item-106 current active"><a  href="Research.htm">Projects</a></li>
+          </ul>
+        </nav>
+        <div  class="row-fluid">
+          <main  class="span9"  role="main"  id="content">
+            <!-- Begin Content -->
+            <div  class="moduletable">
+              <div  class="custom">
+                <p><img  width="853"  height="403"  src="Research_files/IMAG5620_by_Yao_withNote_ray20151127.jpg" /></p>
+              </div>
+            </div>
+            <div  id="system-message-container"> </div>
+            <div  itemtype="http://schema.org/Article"  itemscope=""  class="item-page">
+              <meta  content="en-GB"  itemprop="inLanguage" />
+              <div  class="page-header">
+                <h2  itemprop="name"> <a  itemprop="url"  href="Research.htm">
+                    Project</a> </h2>
+              </div>
+              <div  class="article-info muted">
+                <h1>Established Projects:</h1>
+              </div>
+              <div  itemprop="articleBody">
+                <ul>
+                  <li>
+                    <h3><span  class="style3">Soft Spheres sheared in 3D (SS3)</span></h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr"></span><span  dir="ltr"></span><img
+                               src="Research_files/SS3_paper_fig1.JPG"  style="width: auto; height: auto;" /></td>
+                          <td  style="margin-left: 34px; width: 340px;">
+                            <p  style="margin-bottom: 0cm; line-height: 100%;">Lastest:
+                              "<a  style="color: rgb(51, 102, 255);"  href="https://drive.google.com/file/d/0B90Gj7g3sg_FQTFSdHAxcFFMQjA/view">Relaxation
+                                and Residual Stress</a>" -- Presentation by JC
+                              Tsai at APSDFD-2015(Boston USA)<br />
+                              <span  style="font-family: Calibri,serif;"><span  lang="en-US"></span></span></p>
+                            <p  style="margin-bottom: 0cm; line-height: 100%;"><span
+                                 style="font-family: Calibri,serif;"><span  lang="en-US"><br />
+                                </span></span></p>
+                            <p  style="margin-bottom: 0cm; line-height: 100%;"> </p>
+                            <p  style="margin-bottom: 0cm; line-height: 100%;">我
+                              們建立了一個可以對顆粒系統施施以往復剪應變 (shearing)的系統。在第一階段 , 我們
+                              將千餘顆將千餘顆 1cm
+                              大小的球狀凝膠(hydrogel)，放進一對錐形邊界之間並填滿液體，將上錐來回旋轉，並記錄整個系統正向力與力矩隨時間的變化。同時，我們也採用內部攝影
+                              (internal imaging)觀察材料裡面的動態。藉由研究軟顆粒在不同的體積濃度(Volume
+                              Fraction)下的行為 , 我們希望對流變學研究(rheology)貢獻新的觀點......</p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><br />
+                          </td>
+                          <td><br />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <h3><span  class="style3">Granular Polymer with Transitions
+                        (GPT)</span></h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr"><a  href="http://www.phys.sinica.edu.tw/index_detail.php?id=research&amp;newsid=351"
+                                 style="color: rgb(51, 102, 255);">物</a><a  href="http://www.phys.sinica.edu.tw/index_detail.php?id=research&amp;newsid=351"
+                                 style="color: rgb(51, 102, 255);">理 所新聞稿</a><span
+                                 style="color: rgb(51, 102, 255);"> </span>on </span><a
+                               style="color: rgb(51, 102, 255);"  href="http://dx.doi.org/10.1103/PhysRevLett.112.058001">our
+                              previous work with a gradient of vibration</a><span
+                               dir="ltr"> (Phys.Rev.Lett. 2014)<br />
+                              <br />
+                              <a  href="http://www.phys.sinica.edu.tw/jctsai/GPT2015/"
+                                 style="color: rgb(51, 102, 255);">Demo movies +
+                                孫宇岑's 2015 碩士論文</a><br />
+                              <br />
+                              Lastest: </span><a  href="https://drive.google.com/file/d/0B90Gj7g3sg_FSG85cHpFVHA5Q00/view?usp=sharing"><span
+                                 style="color: rgb(51, 102, 255);">黃柏嘉's
+                                presentation</span></a><span  dir="ltr"> at
+                              APSDFD2015 [ppt]<br />
+                              <br />
+                              在之前我們所發表的論文(Phys. Rev. Lett. 112, 058001,
+                              2014)中看到短珠鍊在空間梯度上運動行為分歧的現象。在透過攝影機進
+                              一步研究珠鍊運動後，我們可將其分為3種
+                              形態(見影片)。在固定震動強度下，珠鍊的跳動方式會自發的在不同形態之間轉變；同時隨著震動強度增加，各個形態會的比
+                              例也會改變。同時我們也研究其型態與水平運動之間的關聯性…</span></td>
+                          <td  style="margin-left: 34px; width: 340px;"><a  href="file:///W:/Lab_Construction_Service/website/jc_lab_web/Research_files/GPT_2015Fig01_setup.jpg"><img
+                                 src="Research_files/GPT_2015Fig01_setup.jpg"  style="width: 337px; height: auto;" /></a></td>
+                        </tr>
+                        <tr>
+                          <td><br />
+                          </td>
+                          <td><br />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <h3><span  class="style3">Rotating two-Fluid Interface (RFI)
+                      </span></h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr"></span><span  dir="ltr"></span><img
+                               src="Research_files/RFI_PRE_fig1.JPG"  style="width: 336px; height: auto;" /></td>
+                          <td  style="margin-left: 34px; width: 340px;">
+                            <p>Latest paper on "<a  style="color: rgb(51, 102, 255);"
+                                 href="http://dx.doi.org/10.1103/PhysRevE.92.031002">vortex-induced
+                                morphology</a>" (Phys. Rev. E 2005) </p>
+                            <p><a  href="http://www.phys.sinica.edu.tw/jctsai/vortex/"><span
+                                   style="color: rgb(51, 102, 255);">Artistic
+                                  pictures &amp; demo movies</span></a></p>
+                            <span  dir="ltr">這是由實驗室的前成員-賴靜
+                              瑤所開啟的研究(最早可追溯至2009年的國際高中科展)，觀察液體界面隨著上蓋轉速變化
+                              所產生出耐人尋味的形貌。為了解釋此現象我們同時觀察了內部流場的結構，來理解界面產生
+                              ”plateau”的緣故。</span></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><br />
+                          </td>
+                          <td><br />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                  <br />
+                </ul>
+                <h1><span  style="color: rgb(192, 192, 192);"></span><span  style="color: rgb(192, 192, 192);">Developing
+                    Projects:</span></h1>
+                <ul>
+                  <li>
+                    <h3><span  class="style3">Granular Polymer in Virtual
+                        experiments (GPV) </span></h3>
+                  </li>
+                </ul>
+                <table  style="height: auto; margin-left: 30px; width: 675px;">
+                  <tbody>
+                    <tr>
+                      <td><span  dir="ltr">--- Numerical simulations analogous
+                          to GPT<br />
+                          --- Minimal model: 1d, dashpot coupling<br />
+                          --- Spontaneous switching in GPT reproduced</span></td>
+                      <td  style="text-align: center;"><img  style="width: 267px; height: auto;"
+                           src="Research_files/GPV_energy_potential.png" /><br />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><br />
+                      </td>
+                      <td><br />
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <ul>
+                  <li>
+                    <h3><span  class="style3">Floating Disks with Jamming (FDJ)</span></h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr">--- <a  style="color: rgb(51, 102, 255);"
+                                 href="Research_files/demo_FDC_Setup_in_action_V_20150311_175852.mp4">continuous
+                                cyclic driving</a> [Movie]<br />
+                              --- airbed eliminating substrate friction<br />
+                              --- <a  style="color: rgb(51, 102, 255);"  href="Research_files/demo_FDC_20150306_01_600fps_test_by_hand_JC_%7B1s_in_20s%7DMPEG4v3.avi">Bi-refringent
+                                disks demonstrating force-chains, despite the
+                                fluidity</a> [Movie]<br />
+                            </span></td>
+                          <td><img  src="Research_files/FDJ_demo.jpg"  style="width: auto; height: 244px;" /></td>
+                        </tr>
+                        <tr>
+                          <td><br />
+                          </td>
+                          <td><br />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                  <li>
+                    <h3>Hydro-dynamical Particle Synthesis (HPS)</h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr">--- Production of soft spheres
+                              using interfacial instabilities<br />
+                              --- Size and Elasticity adjustable<br />
+                            </span></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                  <li>
+                    <h3>Soft Ball Dynamics (SBD)<br />
+                      <span  class="style3"></span></h3>
+                    <table  style="height: auto; width: 675px;">
+                      <tbody>
+                        <tr>
+                          <td><span  dir="ltr">--- Microscopic experiments for
+                              deriving the intrinsic timescales of packed grains
+                              discovered in SS3.<br />
+                            </span></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                </ul>
+                <p><br />
+                </p>
+                <p>We are particularly interested in hearing students' thoughts,
+                  opinions,or even tentative proposals regarding our ongoing
+                  projects. Please don't hesitate to include them in your
+                  application materials to help the selection committee have a
+                  better understanding about you. Feel free to stop by our lab
+                  (Room-232, Phone: 2789-8914/8917) and talk to us if you are
+                  interested</p>
+              </div>
+            </div>
+            <ul  class="breadcrumb">
+              <li  class="active">You are here:  </li>
+              <li><a  class="pathway"  href="Home.htm">Home</a><span  class="divider"><img
+                     alt=""  src="Research_files/arrow.png" /></span></li>
+              <li  class="active"><span>Projects</span></li>
+            </ul>
+            <!-- End Content --> </main>
+          <div  class="span3"  id="aside">
+            <!-- Begin Right Sidebar -->
+            <div  class="well ">
+              <h3  class="page-header">Contact Us</h3>
+              <div  class="custom">
+                <p>Phone: +886-2-2789-8914/8917</p>
+                <p>jctsai-AT-phys.sinica.edu.tw</p>
+                <p>Laboratory: 中央研究院物理所 Room 232, Institude of Physics, Academia
+                  Sinica (AS-IOP)</p>
+                <p>Last update:   2015/12/05 01:32.</p>
+              </div>
+            </div>
+            <!-- End Right Sidebar --> </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    <footer  role="contentinfo"  class="footer">
+      <div  class="container">
+        <hr />
+        <p  class="pull-right"> <a  id="back-top"  href="#top"> Back to Top </a>
+        </p>
+        <p> © 2015  JC Tsai's Lab</p>
+      </div>
+    </footer>
+  </body>
+</html>
