@@ -1,0 +1,11 @@
+Jih-Chiang Tsai, 2007, ¡§Ordering transition and characteristic lengthscale of a granular flow¡¨, Chinese journal of physics, 45(6), 682-685.
+
+J.-C. Tsai and J. P. Gollub, 2005, ¡§Granular packings sheared in an annular channel: Flow localization and grain size dependence¡¨, Physical review e, 72, 051304.
+
+J.-C. Tsai, J. Rodriguez, F. Ye, J. P. Gollub and T.C. Lubensky, 2005, ¡§A Chiral Granular Gas¡¨, Physical Review Letters, 94, 214301.
+
+J.-C. Tsai and J. P. Gollub, 2004, ¡§Slowly Sheared Dense Granular Flows: Crystallization and non-unique final states¡¨, Physical Review E, 70, 031303.
+
+J.-C. Tsai, G.A.Voth, and J. P. Gollub, 2003, ¡§Internal Granular Dynamics, Shear-Induced Crystallization, and Compaction Steps¡¨, Physical Review Letters, 91, 064301.
+
+J.-C. Tsai, W. Losert, G.A. Voth, and J.P. Gollub, 2001, ¡§Two-dimensional granular Poiseuille Flow on an incline: multiple dynamical regimes¡¨, Physical Review e, 65, 011306.
